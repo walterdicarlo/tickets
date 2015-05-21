@@ -1,0 +1,1 @@
+c:\users\walter\documents\visual studio 2013\Projects\tickets\ui\bin\Debug\ui.exe.config
